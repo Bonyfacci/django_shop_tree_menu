@@ -1,0 +1,32 @@
+<ul class="navbar-nav me-auto mb-2 mb-lg-0">
+    {% for node in menu_tree %}
+        <li class="nav-item dropdown {% if node.is_active %}active{% endif %}">
+            <a class="nav-link dropdown-toggle" href="{% if node.item.url %}{{ node.item.url }}{% else %}{% url node.item.named_url %}{% endif %}"
+               id="navbarDropdown{{ node.item.id }}" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                {{ node.item.title }}
+            </a>
+            {% if node.children %}
+                <ul class="dropdown-menu submenu" aria-labelledby="navbarDropdown{{ node.item.id }}">
+                    {% for child in node.children %}
+                        <li class="dropdown-item {% if child.is_active %}active{% endif %}">
+                            <a href="{% if child.item.url %}{{ child.item.url }}{% else %}{% url child.item.named_url %}{% endif %}">
+                                {{ child.item.title }}
+                            </a>
+                            {% if child.children %}
+                                <ul class="submenu">
+                                    {% for grandchild in child.children %}
+                                        <li class="dropdown-item {% if grandchild.is_active %}active{% endif %}">
+                                            <a href="{% if grandchild.item.url %}{{ grandchild.item.url }}{% else %}{% url grandchild.item.named_url %}{% endif %}">
+                                                {{ grandchild.item.title }}
+                                            </a>
+                                        </li>
+                                    {% endfor %}
+                                </ul>
+                            {% endif %}
+                        </li>
+                    {% endfor %}
+                </ul>
+            {% endif %}
+        </li>
+    {% endfor %}
+</ul>

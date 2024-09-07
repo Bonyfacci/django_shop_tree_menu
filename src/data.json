@@ -1,0 +1,2273 @@
+[
+  {
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+      "action_time": "2024-09-07T11:25:01.721Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Меню 1",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+      "action_time": "2024-09-07T11:25:23.612Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "Меню 2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+      "action_time": "2024-09-07T11:33:05.398Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Электроника",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+      "action_time": "2024-09-07T11:33:18.957Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "Телефоны",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+      "action_time": "2024-09-07T11:33:32.039Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "Компьютеры",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+      "action_time": "2024-09-07T11:34:04.664Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "1",
+      "object_repr": "Apple",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+      "action_time": "2024-09-07T11:34:33.406Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "2",
+      "object_repr": "Android",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+      "action_time": "2024-09-07T11:35:04.670Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "3",
+      "object_repr": "Aser",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+      "action_time": "2024-09-07T11:35:23.039Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "4",
+      "object_repr": "Dell",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+      "action_time": "2024-09-07T11:36:13.356Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "5",
+      "object_repr": "Apple",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+      "action_time": "2024-09-07T12:36:08.390Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "4",
+      "object_repr": "Смартфоны и гаджеты",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+      "action_time": "2024-09-07T12:36:29.195Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "5",
+      "object_repr": "Смартфоны",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+      "action_time": "2024-09-07T12:37:14.187Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "6",
+      "object_repr": "Портативные устройства",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+      "action_time": "2024-09-07T12:37:35.807Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "7",
+      "object_repr": "Умные часы",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+      "action_time": "2024-09-07T12:38:21.805Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "8",
+      "object_repr": "Компьютеры и ноутбуки",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 16,
+    "fields": {
+      "action_time": "2024-09-07T12:38:40.127Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "9",
+      "object_repr": "Ноутбуки",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 17,
+    "fields": {
+      "action_time": "2024-09-07T12:38:54.749Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "10",
+      "object_repr": "Настольные компьютеры",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 18,
+    "fields": {
+      "action_time": "2024-09-07T12:39:15.568Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "11",
+      "object_repr": "Моноблоки",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 19,
+    "fields": {
+      "action_time": "2024-09-07T12:39:40.515Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "12",
+      "object_repr": "Бытовая техника",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 20,
+    "fields": {
+      "action_time": "2024-09-07T12:39:56.040Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "13",
+      "object_repr": "Холодильники",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 21,
+    "fields": {
+      "action_time": "2024-09-07T12:40:12.669Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "14",
+      "object_repr": "Стиральные машины",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 22,
+    "fields": {
+      "action_time": "2024-09-07T12:40:27.580Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "15",
+      "object_repr": "Пылесосы",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 23,
+    "fields": {
+      "action_time": "2024-09-07T12:41:21.018Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "6",
+      "object_repr": "Samsung Galaxy S21",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 24,
+    "fields": {
+      "action_time": "2024-09-07T12:42:19.561Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "7",
+      "object_repr": "iPhone 13",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 25,
+    "fields": {
+      "action_time": "2024-09-07T13:03:23.537Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "1",
+      "object_repr": "Смартфоны и гаджеты",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Url\", \"Named_url\", \"Menu_name\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 26,
+    "fields": {
+      "action_time": "2024-09-07T13:03:50.805Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "2",
+      "object_repr": "Компьютеры и ноутбуки",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Url\", \"Named_url\", \"Parent\", \"Menu_name\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 27,
+    "fields": {
+      "action_time": "2024-09-07T13:04:19.533Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "3",
+      "object_repr": "Бытовая техника",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 28,
+    "fields": {
+      "action_time": "2024-09-07T13:04:50.678Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "4",
+      "object_repr": "Смартфоны",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 29,
+    "fields": {
+      "action_time": "2024-09-07T13:05:13.054Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "5",
+      "object_repr": "Гаджеты",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 30,
+    "fields": {
+      "action_time": "2024-09-07T13:05:38.582Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "6",
+      "object_repr": "Аксессуары",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 31,
+    "fields": {
+      "action_time": "2024-09-07T13:07:07.193Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "3",
+      "object_repr": "Компьютеры",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 32,
+    "fields": {
+      "action_time": "2024-09-07T13:07:07.193Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "2",
+      "object_repr": "Телефоны",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 33,
+    "fields": {
+      "action_time": "2024-09-07T13:07:07.193Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "1",
+      "object_repr": "Электроника",
+      "action_flag": 3,
+      "change_message": ""
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 34,
+    "fields": {
+      "action_time": "2024-09-07T13:10:32.500Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "7",
+      "object_repr": "Умные часы",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Slug\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 35,
+    "fields": {
+      "action_time": "2024-09-07T13:11:29.625Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "7",
+      "object_repr": "iPhone 13",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Price\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 36,
+    "fields": {
+      "action_time": "2024-09-07T13:12:02.220Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "8",
+      "object_repr": "Google Pixel 6",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 37,
+    "fields": {
+      "action_time": "2024-09-07T13:21:41.846Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "4",
+      "object_repr": "Смартфоны",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Url\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 38,
+    "fields": {
+      "action_time": "2024-09-07T13:22:10.217Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "4",
+      "object_repr": "Смартфоны",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Url\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 39,
+    "fields": {
+      "action_time": "2024-09-07T13:28:28.447Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "4",
+      "object_repr": "Смартфоны",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Url\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 40,
+    "fields": {
+      "action_time": "2024-09-07T13:32:30.032Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "9",
+      "object_repr": "Garmin Forerunner 945",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 41,
+    "fields": {
+      "action_time": "2024-09-07T13:34:43.656Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "5",
+      "object_repr": "Умные часы",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Url\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 42,
+    "fields": {
+      "action_time": "2024-09-07T13:35:19.453Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "6",
+      "object_repr": "Портативные устройства",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\", \"Url\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 43,
+    "fields": {
+      "action_time": "2024-09-07T13:36:54.783Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "5",
+      "object_repr": "Гаджеты",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 44,
+    "fields": {
+      "action_time": "2024-09-07T13:37:29.100Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "7",
+      "object_repr": "Гаджеты",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Slug\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 45,
+    "fields": {
+      "action_time": "2024-09-07T13:37:52.205Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "5",
+      "object_repr": "Гаджеты",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Url\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 46,
+    "fields": {
+      "action_time": "2024-09-07T13:38:24.690Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "6",
+      "object_repr": "Аксессуары",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Title\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 47,
+    "fields": {
+      "action_time": "2024-09-07T13:38:57.336Z",
+      "user": 1,
+      "content_type": 7,
+      "object_id": "6",
+      "object_repr": "Аксессуары",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Name\", \"Slug\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 48,
+    "fields": {
+      "action_time": "2024-09-07T13:39:28.408Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "6",
+      "object_repr": "Аксессуары",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Url\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 49,
+    "fields": {
+      "action_time": "2024-09-07T13:39:56.187Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "9",
+      "object_repr": "Смарт-гаджет Garmin Forerunner 945",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 50,
+    "fields": {
+      "action_time": "2024-09-07T13:40:30.227Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "10",
+      "object_repr": "Портативный проектор XGIMI MoGo Pro",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 51,
+    "fields": {
+      "action_time": "2024-09-07T13:40:55.805Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "11",
+      "object_repr": "Электронная книга Kindle Paperwhite",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 52,
+    "fields": {
+      "action_time": "2024-09-07T13:41:51.124Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "12",
+      "object_repr": "Силиконовый чехол для iPhone 13 Pro Max",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 53,
+    "fields": {
+      "action_time": "2024-09-07T13:42:13.665Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "13",
+      "object_repr": "Подставка для ноутбука Logitech MX Ergo",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 54,
+    "fields": {
+      "action_time": "2024-09-07T13:42:35.531Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "14",
+      "object_repr": "Кабель Lightning для iPhone 3 м",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 55,
+    "fields": {
+      "action_time": "2024-09-07T13:44:43.336Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "15",
+      "object_repr": "Моноблок Apple iMac 24",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 56,
+    "fields": {
+      "action_time": "2024-09-07T13:45:08.147Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "16",
+      "object_repr": "Моноблок Dell Inspiron 27 7000",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 57,
+    "fields": {
+      "action_time": "2024-09-07T13:45:32.723Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "17",
+      "object_repr": "Моноблок HP Pavilion 24-xa0054ur",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 58,
+    "fields": {
+      "action_time": "2024-09-07T13:45:59.187Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "18",
+      "object_repr": "Настольный компьютер MSI MAG Infinite S",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 59,
+    "fields": {
+      "action_time": "2024-09-07T13:46:18.878Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "19",
+      "object_repr": "Настольный компьютер Lenovo ThinkCentre M720",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 60,
+    "fields": {
+      "action_time": "2024-09-07T13:46:44.811Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "20",
+      "object_repr": "Настольный компьютер HP Elite 800 G5",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 61,
+    "fields": {
+      "action_time": "2024-09-07T13:47:12.908Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "21",
+      "object_repr": "Ноутбук Apple MacBook Air M2",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 62,
+    "fields": {
+      "action_time": "2024-09-07T13:47:36.526Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "22",
+      "object_repr": "Ноутбук ASUS ROG Zephyrus G14",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 63,
+    "fields": {
+      "action_time": "2024-09-07T13:47:57.529Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "23",
+      "object_repr": "Ноутбук Dell XPS 13",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 64,
+    "fields": {
+      "action_time": "2024-09-07T13:48:54.366Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "8",
+      "object_repr": "Google Pixel 6",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Price\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 65,
+    "fields": {
+      "action_time": "2024-09-07T13:49:06.856Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "7",
+      "object_repr": "iPhone 13",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Price\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 66,
+    "fields": {
+      "action_time": "2024-09-07T13:49:18.902Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "6",
+      "object_repr": "Samsung Galaxy S21",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Description\", \"Price\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 67,
+    "fields": {
+      "action_time": "2024-09-07T13:51:35.060Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "7",
+      "object_repr": "Моноблоки",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 68,
+    "fields": {
+      "action_time": "2024-09-07T13:52:15.357Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "8",
+      "object_repr": "Настольные компьютеры",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 69,
+    "fields": {
+      "action_time": "2024-09-07T13:52:46.257Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "9",
+      "object_repr": "Ноутбуки",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 70,
+    "fields": {
+      "action_time": "2024-09-07T14:01:43.625Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "24",
+      "object_repr": "Пылесос Dyson V11 Absolute",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 71,
+    "fields": {
+      "action_time": "2024-09-07T14:02:06.129Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "25",
+      "object_repr": "Пылесос Samsung VC20M2510SB",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 72,
+    "fields": {
+      "action_time": "2024-09-07T14:02:41.029Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "26",
+      "object_repr": "Пылесос Philips PowerPro Compact",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 73,
+    "fields": {
+      "action_time": "2024-09-07T14:03:05.516Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "27",
+      "object_repr": "Стиральная машина LG F2V9HS6W",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 74,
+    "fields": {
+      "action_time": "2024-09-07T14:03:29.560Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "28",
+      "object_repr": "Стиральная машина Samsung WW90T504DAN",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 75,
+    "fields": {
+      "action_time": "2024-09-07T14:03:49.332Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "29",
+      "object_repr": "Стиральная машина Bosch WAN28281",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 76,
+    "fields": {
+      "action_time": "2024-09-07T14:04:10.947Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "30",
+      "object_repr": "Холодильник LG GA-B409SLCM",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 77,
+    "fields": {
+      "action_time": "2024-09-07T14:04:29.740Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "31",
+      "object_repr": "Холодильник Samsung RB30J3000SA",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 78,
+    "fields": {
+      "action_time": "2024-09-07T14:04:51.048Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "32",
+      "object_repr": "Холодильник Bosch KGN39VL35",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 79,
+    "fields": {
+      "action_time": "2024-09-07T14:05:33.719Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "10",
+      "object_repr": "Пылесосы",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 80,
+    "fields": {
+      "action_time": "2024-09-07T14:06:06.319Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "11",
+      "object_repr": "Стиральные машины",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 81,
+    "fields": {
+      "action_time": "2024-09-07T14:06:32.785Z",
+      "user": 1,
+      "content_type": 9,
+      "object_id": "12",
+      "object_repr": "Холодильники",
+      "action_flag": 1,
+      "change_message": "[{\"added\": {}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 82,
+    "fields": {
+      "action_time": "2024-09-07T14:18:17.898Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "8",
+      "object_repr": "Смартфон Google Pixel 6",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 83,
+    "fields": {
+      "action_time": "2024-09-07T14:18:23.458Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "7",
+      "object_repr": "Смартфон iPhone 13",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+    }
+  },
+  {
+    "model": "admin.logentry",
+    "pk": 84,
+    "fields": {
+      "action_time": "2024-09-07T14:18:26.952Z",
+      "user": 1,
+      "content_type": 8,
+      "object_id": "6",
+      "object_repr": "Смартфон Samsung Galaxy S21",
+      "action_flag": 2,
+      "change_message": "[{\"changed\": {\"fields\": [\"Name\"]}}]"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+      "name": "Can add log entry",
+      "content_type": 1,
+      "codename": "add_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+      "name": "Can change log entry",
+      "content_type": 1,
+      "codename": "change_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+      "name": "Can delete log entry",
+      "content_type": 1,
+      "codename": "delete_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+      "name": "Can view log entry",
+      "content_type": 1,
+      "codename": "view_logentry"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+      "name": "Can add permission",
+      "content_type": 2,
+      "codename": "add_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+      "name": "Can change permission",
+      "content_type": 2,
+      "codename": "change_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+      "name": "Can delete permission",
+      "content_type": 2,
+      "codename": "delete_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+      "name": "Can view permission",
+      "content_type": 2,
+      "codename": "view_permission"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+      "name": "Can add group",
+      "content_type": 3,
+      "codename": "add_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+      "name": "Can change group",
+      "content_type": 3,
+      "codename": "change_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+      "name": "Can delete group",
+      "content_type": 3,
+      "codename": "delete_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+      "name": "Can view group",
+      "content_type": 3,
+      "codename": "view_group"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+      "name": "Can add content type",
+      "content_type": 4,
+      "codename": "add_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+      "name": "Can change content type",
+      "content_type": 4,
+      "codename": "change_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+      "name": "Can delete content type",
+      "content_type": 4,
+      "codename": "delete_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+      "name": "Can view content type",
+      "content_type": 4,
+      "codename": "view_contenttype"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+      "name": "Can add session",
+      "content_type": 5,
+      "codename": "add_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+      "name": "Can change session",
+      "content_type": 5,
+      "codename": "change_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+      "name": "Can delete session",
+      "content_type": 5,
+      "codename": "delete_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+      "name": "Can view session",
+      "content_type": 5,
+      "codename": "view_session"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+      "name": "Can add Пользователь",
+      "content_type": 6,
+      "codename": "add_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+      "name": "Can change Пользователь",
+      "content_type": 6,
+      "codename": "change_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+      "name": "Can delete Пользователь",
+      "content_type": 6,
+      "codename": "delete_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+      "name": "Can view Пользователь",
+      "content_type": 6,
+      "codename": "view_user"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+      "name": "Can add Категория",
+      "content_type": 7,
+      "codename": "add_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+      "name": "Can change Категория",
+      "content_type": 7,
+      "codename": "change_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+      "name": "Can delete Категория",
+      "content_type": 7,
+      "codename": "delete_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+      "name": "Can view Категория",
+      "content_type": 7,
+      "codename": "view_category"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+      "name": "Can add Продукт",
+      "content_type": 8,
+      "codename": "add_product"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+      "name": "Can change Продукт",
+      "content_type": 8,
+      "codename": "change_product"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+      "name": "Can delete Продукт",
+      "content_type": 8,
+      "codename": "delete_product"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+      "name": "Can view Продукт",
+      "content_type": 8,
+      "codename": "view_product"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+      "name": "Can add Пункт меню",
+      "content_type": 9,
+      "codename": "add_menuitem"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+      "name": "Can change Пункт меню",
+      "content_type": 9,
+      "codename": "change_menuitem"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+      "name": "Can delete Пункт меню",
+      "content_type": 9,
+      "codename": "delete_menuitem"
+    }
+  },
+  {
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+      "name": "Can view Пункт меню",
+      "content_type": 9,
+      "codename": "view_menuitem"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+      "app_label": "admin",
+      "model": "logentry"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+      "app_label": "auth",
+      "model": "permission"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+      "app_label": "auth",
+      "model": "group"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+      "app_label": "contenttypes",
+      "model": "contenttype"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+      "app_label": "sessions",
+      "model": "session"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+      "app_label": "users",
+      "model": "user"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+      "app_label": "store",
+      "model": "category"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+      "app_label": "store",
+      "model": "product"
+    }
+  },
+  {
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+      "app_label": "menu",
+      "model": "menuitem"
+    }
+  },
+  {
+    "model": "sessions.session",
+    "pk": "e3vt8tatp0gg71x35ujfkv59blhxzims",
+    "fields": {
+      "session_data": ".eJxVjMsOwiAQRf-FtSGDPAou3fsNZJgBqRqalHZl_HfbpAvdnnPufYuI61Lj2vMcRxYXocTplyWkZ2674Ae2-yRpass8Jrkn8rBd3ibOr-vR_h1U7HVbo3FhAMu-oDsTa-83YD2bYK1RjpIyEEpmx6RLARU0ADssRQ9GE6D4fAHLSzd_:1smt9k:_fY-SyLWfv0rOSe5NF_NQDP24NZ57LpUH_j-FSlp_Fg",
+      "expire_date": "2024-09-21T10:59:04.276Z"
+    }
+  },
+  {
+    "model": "users.user",
+    "pk": 1,
+    "fields": {
+      "password": "pbkdf2_sha256$870000$mSLNRrAT2glO2LaE3knQmN$UcsdO0Xt4a8YIomIWn1axmMFego04rF9c3HUzvDbeyA=",
+      "last_login": "2024-09-07T10:59:04.274Z",
+      "is_superuser": true,
+      "is_staff": true,
+      "is_active": true,
+      "date_joined": "2024-09-07T10:58:30.011Z",
+      "created": "2024-09-07T10:58:30.012Z",
+      "updated": "2024-09-07T10:58:30.012Z",
+      "is_deleted": false,
+      "username": "admin",
+      "first_name": "admin",
+      "last_name": "admin",
+      "middle_name": null,
+      "email": "admin@example.com",
+      "groups": [],
+      "user_permissions": []
+    }
+  },
+  {
+    "model": "store.category",
+    "pk": 4,
+    "fields": {
+      "created": "2024-09-07T12:36:08.389Z",
+      "updated": "2024-09-07T12:36:08.389Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Смартфоны и гаджеты",
+      "parent": null,
+      "slug": "smartphones-and-gadgets"
+    }
+  },
+  {
+    "model": "store.category",
+    "pk": 5,
+    "fields": {
+      "created": "2024-09-07T12:36:29.194Z",
+      "updated": "2024-09-07T12:36:29.194Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Смартфоны",
+      "parent": 4,
+      "slug": "smartphones"
+    }
+  },
+  {
+    "model": "store.category",
+    "pk": 6,
+    "fields": {
+      "created": "2024-09-07T12:37:14.186Z",
+      "updated": "2024-09-07T13:38:57.335Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Аксессуары",
+      "parent": 4,
+      "slug": "accessories"
+    }
+  },
+  {
+    "model": "store.category",
+    "pk": 7,
+    "fields": {
+      "created": "2024-09-07T12:37:35.806Z",
+      "updated": "2024-09-07T13:37:29.099Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Гаджеты",
+      "parent": 4,
+      "slug": "gadgets"
+    }
+  },
+  {
+    "model": "store.category",
+    "pk": 8,
+    "fields": {
+      "created": "2024-09-07T12:38:21.804Z",
+      "updated": "2024-09-07T12:38:21.804Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Компьютеры и ноутбуки",
+      "parent": null,
+      "slug": "computers-and-laptops"
+    }
+  },
+  {
+    "model": "store.category",
+    "pk": 9,
+    "fields": {
+      "created": "2024-09-07T12:38:40.126Z",
+      "updated": "2024-09-07T12:38:40.126Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Ноутбуки",
+      "parent": 8,
+      "slug": "laptops"
+    }
+  },
+  {
+    "model": "store.category",
+    "pk": 10,
+    "fields": {
+      "created": "2024-09-07T12:38:54.748Z",
+      "updated": "2024-09-07T12:38:54.748Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Настольные компьютеры",
+      "parent": 8,
+      "slug": "desktops"
+    }
+  },
+  {
+    "model": "store.category",
+    "pk": 11,
+    "fields": {
+      "created": "2024-09-07T12:39:15.567Z",
+      "updated": "2024-09-07T12:39:15.567Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Моноблоки",
+      "parent": 8,
+      "slug": "all-in-ones"
+    }
+  },
+  {
+    "model": "store.category",
+    "pk": 12,
+    "fields": {
+      "created": "2024-09-07T12:39:40.515Z",
+      "updated": "2024-09-07T12:39:40.515Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Бытовая техника",
+      "parent": null,
+      "slug": "home-appliances"
+    }
+  },
+  {
+    "model": "store.category",
+    "pk": 13,
+    "fields": {
+      "created": "2024-09-07T12:39:56.039Z",
+      "updated": "2024-09-07T12:39:56.039Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Холодильники",
+      "parent": 12,
+      "slug": "refrigerators"
+    }
+  },
+  {
+    "model": "store.category",
+    "pk": 14,
+    "fields": {
+      "created": "2024-09-07T12:40:12.668Z",
+      "updated": "2024-09-07T12:40:12.668Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Стиральные машины",
+      "parent": 12,
+      "slug": "washing-machines"
+    }
+  },
+  {
+    "model": "store.category",
+    "pk": 15,
+    "fields": {
+      "created": "2024-09-07T12:40:27.579Z",
+      "updated": "2024-09-07T12:40:27.579Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Пылесосы",
+      "parent": 12,
+      "slug": "vacuum-cleaners"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 6,
+    "fields": {
+      "created": "2024-09-07T12:41:21.017Z",
+      "updated": "2024-09-07T14:18:26.951Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Смартфон Samsung Galaxy S21",
+      "description": "Флагманский смартфон от Samsung с процессором Exynos 2100, 8 ГБ оперативной памяти и 128 ГБ встроенной памяти. Камера с тройным модулем и дисплей Dynamic AMOLED 2X.",
+      "price": "60000.00",
+      "category": 5,
+      "slug": "samsung-galaxy-s21"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 7,
+    "fields": {
+      "created": "2024-09-07T12:42:19.560Z",
+      "updated": "2024-09-07T14:18:23.457Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Смартфон iPhone 13",
+      "description": "Новый iPhone 13 с процессором A15 Bionic, 6 ГБ оперативной памяти и 128 ГБ встроенной памяти. Улучшенная камера, яркий Super Retina XDR дисплей и поддержка 5G.",
+      "price": "70000.00",
+      "category": 5,
+      "slug": "iphone-13"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 8,
+    "fields": {
+      "created": "2024-09-07T13:12:02.219Z",
+      "updated": "2024-09-07T14:18:17.896Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Смартфон Google Pixel 6",
+      "description": "Смартфон от Google с процессором Google Tensor, 8 ГБ оперативной памяти и 128 ГБ встроенной памяти. Оснащен камерой с продвинутыми функциями и Android 12.",
+      "price": "50000.00",
+      "category": 5,
+      "slug": "google-pixel-6"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 9,
+    "fields": {
+      "created": "2024-09-07T13:32:30.031Z",
+      "updated": "2024-09-07T13:39:56.186Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Смарт-гаджет Garmin Forerunner 945",
+      "description": "Спортивные умные часы с функцией GPS и мониторингом сердечного ритма. Встроенные карты, датчики для отслеживания активности и поддержка различных спортивных режимов.",
+      "price": "45000.00",
+      "category": 7,
+      "slug": "garmin-forerunner-945"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 10,
+    "fields": {
+      "created": "2024-09-07T13:40:30.226Z",
+      "updated": "2024-09-07T13:40:30.226Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Портативный проектор XGIMI MoGo Pro",
+      "description": "Компактный и мощный проектор с встроенным Android TV. Поддержка 4K, Wi-Fi и Bluetooth. Идеален для просмотра фильмов и презентаций в любом месте.",
+      "price": "32000.00",
+      "category": 7,
+      "slug": "xgimi-mogo-pro"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 11,
+    "fields": {
+      "created": "2024-09-07T13:40:55.804Z",
+      "updated": "2024-09-07T13:40:55.804Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Электронная книга Kindle Paperwhite",
+      "description": "Водонепроницаемая электронная книга с подсветкой и высоким разрешением экрана. Поддержка хранения тысяч книг и легкий доступ к Amazon Kindle Store.",
+      "price": "15000.00",
+      "category": 7,
+      "slug": "kindle-paperwhite"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 12,
+    "fields": {
+      "created": "2024-09-07T13:41:51.123Z",
+      "updated": "2024-09-07T13:41:51.123Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Силиконовый чехол для iPhone 13 Pro Max",
+      "description": "Мягкий и защитный силиконовый чехол, идеально сидящий на iPhone 13 Pro Max. Доступен в различных цветах и обеспечивает надежную защиту от царапин и ударов.",
+      "price": "1200.00",
+      "category": 6,
+      "slug": "silicone-case-iphone-13-pro-max"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 13,
+    "fields": {
+      "created": "2024-09-07T13:42:13.664Z",
+      "updated": "2024-09-07T13:42:13.664Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Подставка для ноутбука Logitech MX Ergo",
+      "description": "Регулируемая подставка для ноутбука с возможностью изменения угла наклона. Обеспечивает удобное положение для работы и снижает нагрузку на спину и шею.",
+      "price": "3500.00",
+      "category": 6,
+      "slug": "logitech-mx-ergo"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 14,
+    "fields": {
+      "created": "2024-09-07T13:42:35.530Z",
+      "updated": "2024-09-07T13:42:35.530Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Кабель Lightning для iPhone 3 м",
+      "description": "Длинный кабель Lightning для зарядки и синхронизации iPhone и iPad. Длина 3 метра, подходит для использования на расстоянии от зарядного устройства.",
+      "price": "600.00",
+      "category": 6,
+      "slug": "lightning-cable-3m"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 15,
+    "fields": {
+      "created": "2024-09-07T13:44:43.335Z",
+      "updated": "2024-09-07T13:44:43.335Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Моноблок Apple iMac 24",
+      "description": "Современный моноблок с 24-дюймовым 4.5K Retina дисплеем. Оснащен процессором Apple M1, 8 ГБ оперативной памяти и 256 ГБ SSD. Идеален для дизайнеров и творческих специалистов.",
+      "price": "120000.00",
+      "category": 11,
+      "slug": "imac-24-inch"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 16,
+    "fields": {
+      "created": "2024-09-07T13:45:08.146Z",
+      "updated": "2024-09-07T13:45:08.146Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Моноблок Dell Inspiron 27 7000",
+      "description": "Моноблок с 27-дюймовым Full HD дисплеем, процессором Intel Core i7, 16 ГБ оперативной памяти и 512 ГБ SSD. Отличное решение для дома и офиса.",
+      "price": "85000.00",
+      "category": 11,
+      "slug": "dell-inspiron-27-7000"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 17,
+    "fields": {
+      "created": "2024-09-07T13:45:32.722Z",
+      "updated": "2024-09-07T13:45:32.722Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Моноблок HP Pavilion 24-xa0054ur",
+      "description": "Компактный моноблок с 24-дюймовым дисплеем, процессором AMD Ryzen 5, 8 ГБ оперативной памяти и 1 ТБ HDD. Подходит для повседневного использования и работы.",
+      "price": "65000.00",
+      "category": 11,
+      "slug": "hp-pavilion-24-xa0054ur"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 18,
+    "fields": {
+      "created": "2024-09-07T13:45:59.186Z",
+      "updated": "2024-09-07T13:45:59.186Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Настольный компьютер MSI MAG Infinite S",
+      "description": "Игровой настольный ПК с процессором Intel Core i7, 16 ГБ оперативной памяти и видеокартой NVIDIA GeForce RTX 3060. Отличный выбор для геймеров и профессионалов.",
+      "price": "120000.00",
+      "category": 10,
+      "slug": "msi-mag-infinite-s"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 19,
+    "fields": {
+      "created": "2024-09-07T13:46:18.877Z",
+      "updated": "2024-09-07T13:46:18.877Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Настольный компьютер Lenovo ThinkCentre M720",
+      "description": "Компактный настольный ПК с процессором Intel Core i5, 8 ГБ оперативной памяти и 256 ГБ SSD. Идеален для офисного использования и домашних задач.",
+      "price": "45000.00",
+      "category": 10,
+      "slug": "lenovo-thinkcentre-m720"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 20,
+    "fields": {
+      "created": "2024-09-07T13:46:44.810Z",
+      "updated": "2024-09-07T13:46:44.810Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Настольный компьютер HP Elite 800 G5",
+      "description": "Бизнес-настольный ПК с процессором Intel Core i7, 16 ГБ оперативной памяти и 512 ГБ SSD. Подходит для профессионального использования и многозадачности.",
+      "price": "70000.00",
+      "category": 10,
+      "slug": "hp-elite-800-g5"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 21,
+    "fields": {
+      "created": "2024-09-07T13:47:12.907Z",
+      "updated": "2024-09-07T13:47:12.907Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Ноутбук Apple MacBook Air M2",
+      "description": "Легкий и мощный ноутбук с процессором Apple M2, 8 ГБ оперативной памяти и 256 ГБ SSD. Отличный выбор для студентов и профессионалов.",
+      "price": "110000.00",
+      "category": 9,
+      "slug": "macbook-air-m2"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 22,
+    "fields": {
+      "created": "2024-09-07T13:47:36.525Z",
+      "updated": "2024-09-07T13:47:36.525Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Ноутбук ASUS ROG Zephyrus G14",
+      "description": "Игровой ноутбук с процессором AMD Ryzen 9, 16 ГБ оперативной памяти и видеокартой NVIDIA GeForce RTX 3060. Подходит для игр и ресурсоемких приложений.",
+      "price": "140000.00",
+      "category": 9,
+      "slug": "asus-rog-zephyrus-g14"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 23,
+    "fields": {
+      "created": "2024-09-07T13:47:57.528Z",
+      "updated": "2024-09-07T13:47:57.528Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Ноутбук Dell XPS 13",
+      "description": "Компактный и стильный ноутбук с процессором Intel Core i7, 16 ГБ оперативной памяти и 512 ГБ SSD. Идеален для работы и путешествий.",
+      "price": "95000.00",
+      "category": 9,
+      "slug": "dell-xps-13"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 24,
+    "fields": {
+      "created": "2024-09-07T14:01:43.624Z",
+      "updated": "2024-09-07T14:01:43.624Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Пылесос Dyson V11 Absolute",
+      "description": "Беспроводной пылесос Dyson V11 Absolute с мощным всасыванием и интеллектуальной системой управления. Идеален для глубокой очистки и уборки всех типов поверхностей.",
+      "price": "45000.00",
+      "category": 15,
+      "slug": "dyson-v11-absolute"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 25,
+    "fields": {
+      "created": "2024-09-07T14:02:06.128Z",
+      "updated": "2024-09-07T14:02:06.128Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Пылесос Samsung VC20M2510SB",
+      "description": "Пылесос с мешком для пыли и функцией циклонной фильтрации. Компактный и удобный, оснащен различными насадками для эффективной уборки.",
+      "price": "15000.00",
+      "category": 15,
+      "slug": "samsung-vc20m2510sb"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 26,
+    "fields": {
+      "created": "2024-09-07T14:02:41.027Z",
+      "updated": "2024-09-07T14:02:41.027Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Пылесос Philips PowerPro Compact",
+      "description": "Компактный пылесос с технологией PowerCyclone и фильтром Hepa. Обеспечивает отличную очистку на всех типах поверхностей, легко маневрирует и хранится.",
+      "price": "20000.00",
+      "category": 15,
+      "slug": "philips-powerpro-compact"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 27,
+    "fields": {
+      "created": "2024-09-07T14:03:05.515Z",
+      "updated": "2024-09-07T14:03:05.515Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Стиральная машина LG F2V9HS6W",
+      "description": "Стиральная машина с фронтальной загрузкой, 9 кг, инверторный мотор и технология AI DD для оптимального выбора режима стирки.",
+      "price": "50000.00",
+      "category": 14,
+      "slug": "lg-f2v9hs6w"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 28,
+    "fields": {
+      "created": "2024-09-07T14:03:29.559Z",
+      "updated": "2024-09-07T14:03:29.559Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Стиральная машина Samsung WW90T504DAN",
+      "description": "Фронтальная стиральная машина с загрузкой 9 кг, технология EcoBubble для эффективного стирки при низких температурах и функция Steam Wash.",
+      "price": "45000.00",
+      "category": 14,
+      "slug": "samsung-ww90t504dan"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 29,
+    "fields": {
+      "created": "2024-09-07T14:03:49.330Z",
+      "updated": "2024-09-07T14:03:49.330Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Стиральная машина Bosch WAN28281",
+      "description": "Стиральная машина с фронтальной загрузкой, 8 кг, система ActiveWater для оптимального расхода воды и технологией VarioPerfect для экономии времени и энергии.",
+      "price": "35000.00",
+      "category": 14,
+      "slug": "bosch-wan28281"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 30,
+    "fields": {
+      "created": "2024-09-07T14:04:10.946Z",
+      "updated": "2024-09-07T14:04:10.946Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Холодильник LG GA-B409SLCM",
+      "description": "Холодильник с двухкамерной системой, No Frost, система Linear Cooling для равномерного охлаждения и инверторный компрессор.",
+      "price": "60000.00",
+      "category": 13,
+      "slug": "lg-ga-b409slcm"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 31,
+    "fields": {
+      "created": "2024-09-07T14:04:29.739Z",
+      "updated": "2024-09-07T14:04:29.739Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Холодильник Samsung RB30J3000SA",
+      "description": "Холодильник с двухкамерной системой, технология Twin Cooling Plus для поддержания оптимального уровня влажности и функции No Frost.",
+      "price": "55000.00",
+      "category": 13,
+      "slug": "samsung-rb30j3000sa"
+    }
+  },
+  {
+    "model": "store.product",
+    "pk": 32,
+    "fields": {
+      "created": "2024-09-07T14:04:51.047Z",
+      "updated": "2024-09-07T14:04:51.047Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "name": "Холодильник Bosch KGN39VL35",
+      "description": "Холодильник с двухкамерной системой и технологией No Frost. Оснащен инновационной системой охлаждения и экономичным LED-освещением.",
+      "price": "70000.00",
+      "category": 13,
+      "slug": "bosch-kgn39vl35"
+    }
+  },
+  {
+    "model": "menu.menuitem",
+    "pk": 1,
+    "fields": {
+      "created": "2024-09-07T11:25:01.719Z",
+      "updated": "2024-09-07T13:03:23.536Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "title": "Смартфоны и гаджеты",
+      "url": "/smartphones/",
+      "named_url": "smartphones_list",
+      "parent": null,
+      "menu_name": "main_menu",
+      "order": 1
+    }
+  },
+  {
+    "model": "menu.menuitem",
+    "pk": 2,
+    "fields": {
+      "created": "2024-09-07T11:25:23.611Z",
+      "updated": "2024-09-07T13:03:50.804Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "title": "Компьютеры и ноутбуки",
+      "url": "/laptops/",
+      "named_url": "laptops_list",
+      "parent": null,
+      "menu_name": "main_menu",
+      "order": 2
+    }
+  },
+  {
+    "model": "menu.menuitem",
+    "pk": 3,
+    "fields": {
+      "created": "2024-09-07T13:04:19.531Z",
+      "updated": "2024-09-07T13:04:19.531Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "title": "Бытовая техника",
+      "url": "/appliances/",
+      "named_url": "appliances_list",
+      "parent": null,
+      "menu_name": "main_menu",
+      "order": 3
+    }
+  },
+  {
+    "model": "menu.menuitem",
+    "pk": 4,
+    "fields": {
+      "created": "2024-09-07T13:04:50.677Z",
+      "updated": "2024-09-07T13:28:28.446Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "title": "Смартфоны",
+      "url": "/store/category/smartphones/",
+      "named_url": "smartphones_list",
+      "parent": 1,
+      "menu_name": "main_menu",
+      "order": 1
+    }
+  },
+  {
+    "model": "menu.menuitem",
+    "pk": 5,
+    "fields": {
+      "created": "2024-09-07T13:05:13.053Z",
+      "updated": "2024-09-07T13:37:52.204Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "title": "Гаджеты",
+      "url": "/store/category/gadgets/",
+      "named_url": "gadgets_list",
+      "parent": 1,
+      "menu_name": "main_menu",
+      "order": 2
+    }
+  },
+  {
+    "model": "menu.menuitem",
+    "pk": 6,
+    "fields": {
+      "created": "2024-09-07T13:05:38.581Z",
+      "updated": "2024-09-07T13:39:28.407Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "title": "Аксессуары",
+      "url": "/store/category/accessories/",
+      "named_url": "accessories_list",
+      "parent": 1,
+      "menu_name": "main_menu",
+      "order": 3
+    }
+  },
+  {
+    "model": "menu.menuitem",
+    "pk": 7,
+    "fields": {
+      "created": "2024-09-07T13:51:35.059Z",
+      "updated": "2024-09-07T13:51:35.059Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "title": "Моноблоки",
+      "url": "/store/category/all-in-ones/",
+      "named_url": "monoblocks_list",
+      "parent": 2,
+      "menu_name": "main_menu",
+      "order": 1
+    }
+  },
+  {
+    "model": "menu.menuitem",
+    "pk": 8,
+    "fields": {
+      "created": "2024-09-07T13:52:15.356Z",
+      "updated": "2024-09-07T13:52:15.356Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "title": "Настольные компьютеры",
+      "url": "/store/category/desktops/",
+      "named_url": "desktops_list",
+      "parent": 2,
+      "menu_name": "main_menu",
+      "order": 2
+    }
+  },
+  {
+    "model": "menu.menuitem",
+    "pk": 9,
+    "fields": {
+      "created": "2024-09-07T13:52:46.256Z",
+      "updated": "2024-09-07T13:52:46.256Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "title": "Ноутбуки",
+      "url": "/store/category/laptops/",
+      "named_url": "laptops_list",
+      "parent": 2,
+      "menu_name": "main_menu",
+      "order": 3
+    }
+  },
+  {
+    "model": "menu.menuitem",
+    "pk": 10,
+    "fields": {
+      "created": "2024-09-07T14:05:33.718Z",
+      "updated": "2024-09-07T14:05:33.718Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "title": "Пылесосы",
+      "url": "/store/category/vacuum-cleaners/",
+      "named_url": "vacuum_cleaners_list",
+      "parent": 3,
+      "menu_name": "main_menu",
+      "order": 1
+    }
+  },
+  {
+    "model": "menu.menuitem",
+    "pk": 11,
+    "fields": {
+      "created": "2024-09-07T14:06:06.318Z",
+      "updated": "2024-09-07T14:06:06.318Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "title": "Стиральные машины",
+      "url": "/store/category/washing-machines/",
+      "named_url": "washing_machines_list",
+      "parent": 3,
+      "menu_name": "main_menu",
+      "order": 2
+    }
+  },
+  {
+    "model": "menu.menuitem",
+    "pk": 12,
+    "fields": {
+      "created": "2024-09-07T14:06:32.784Z",
+      "updated": "2024-09-07T14:06:32.784Z",
+      "is_deleted": false,
+      "created_by": 1,
+      "title": "Холодильники",
+      "url": "/store/category/refrigerators/",
+      "named_url": "refrigerators_list",
+      "parent": 3,
+      "menu_name": "main_menu",
+      "order": 3
+    }
+  }
+]
